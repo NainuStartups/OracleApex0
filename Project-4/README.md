@@ -1,3 +1,6 @@
+# Sample Maps
+This application contains numerous examples of visualizing coordinate data on a map. Use Map Markers, Lines or Polygons, or the Heat Map feature. The APEX Map Region can easily be combined with Oracle Spatial functionality (which is included in every Oracle Database) to perform a "Within Distance Search", "Nearest Neighbor Search", or other spatial analysis.
+ 
  ***Installation Steps***
 ------------------------------------
 1. Download the .zip/.sql file in your Downloads directory
