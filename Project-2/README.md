@@ -1,3 +1,6 @@
+# Document Generator
+This application showcases the integration with the Oracle Document Generator Pre-built Function on OCI. It features several examples of generating PDF documents from a combination of JSON data and MS Word templates.
+ 
  ***Installation Steps***
 ------------------------------------
 1. Download the .zip/.sql file in your Downloads directory
